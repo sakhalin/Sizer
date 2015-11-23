@@ -11,7 +11,7 @@
   ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/FormstoneClassic/Sizer"
+    "url": "https://github.com/sakhalin/Sizer.git"
   },
   "homepage": "http://classic.formstone.it/sizer/",
   "demo": "http://classic.formstone.it/components/Sizer/demo/index.html",
